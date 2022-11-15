@@ -32,5 +32,11 @@ event ApprovalForAll(address indexed _owner, address indexed _operator, bool _ap
         return _operatorApprovals[_owner][_operator];
 
     }
+    function _transfer(address from, address to, uint256 id,uint256 amount)private{
+        uint256 fromBalance=_balances[id][from];
+        require(fromBalance>=amount, "Insufficient balance");
+        _balances[id][from] = fromBalance-amount;
+        _balances[id][to] += amount;
+    }
 
 }
