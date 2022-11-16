@@ -1,4 +1,4 @@
-# ERC 1155 Project
+# ERC1155 Project
 
 This project demonstrates use of ERC1155 standard.\
 This standard is both fungible and nonfungible.\
