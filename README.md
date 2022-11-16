@@ -1,13 +1,10 @@
-# Sample Hardhat Project
+# ERC 1155 Project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
+This project demonstrates use of ERC1155 standard
+This standard is both fungible and nonfungible.
+We can create NFTs which are semifungible and seminonfungible tokens
 
 ```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
+npm install
+npx hardhat run/scripts deploy.js
 ```
