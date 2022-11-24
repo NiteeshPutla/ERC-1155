@@ -72,7 +72,7 @@ event TransferBatch(address indexed operator, address indexed _from,address _to,
     }
 
     function supportsInterface(bytes4 interfaceId)public pure virtual returns (bool){
-        return interfaceId = 0xd9b67a26;
+        return interfaceId == 0xd9b67a26;
 
 
     }

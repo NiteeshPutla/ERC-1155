@@ -1,0 +1,29 @@
+{
+    "name": "Zoro",
+    "description": "Roronoa Zoro, also known as Pirate Hunter Zoro, is the combatant of the Straw Hat Pirates, one of their two swordsmen and one of the Senior Officers of the Straw Hat Grand Fleet",
+    "image": "https://ipfs.io/ipfs/QmSzk1cJf6nEWm7h9J42iM5ue6y7YHRQ5yWsnseRSUmTY4",
+    "attributes":[
+        {
+            "trait_type":"Strength",
+            "value":9,
+            "max_value":10
+
+        },
+        {
+            "trait_type":"Luck",
+            "value":8,
+            "max_value":10
+
+        },
+        {
+            "trait_type":"Perseverance",
+            "value":10,
+            "max_value":10
+        },
+        {
+            "trait_type":"smile",
+            "value":10,
+            "max_value":10
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Luffy",
+    "description": "Luffy is a fierce and formidable combatant who can invent extremely creative fighting techniques even during intense mid battle and has gone through harsh and rigorous training since he was a child",
+    "image": "https://ipfs.io/ipfs/QmWCQH1knJz4QbM1KmJRJ2FMkW3iZRB3g4p3rPBRRYyA2f",
+    "attributes":[
+        {
+            "trait_type":"Strength",
+            "value":9,
+            "max_value":10
+
+        },
+        {
+            "trait_type":"Luck",
+            "value":10,
+            "max_value":10
+
+        },
+        {
+            "trait_type":"Perseverance",
+            "value":10,
+            "max_value":10
+        },
+        {
+            "trait_type":"smile",
+            "value":10,
+            "max_value":10
+        }
+    ]
+}
